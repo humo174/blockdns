@@ -2,7 +2,6 @@
 |31231851.xyz^$dnsrewrite=NOERROR;A;127.0.0.1
 |loco.leisurecreste.com^$dnsrewrite=NOERROR;A;127.0.0.1
 |cpol.ctaporegi.com^$dnsrewrite=NOERROR;A;127.0.0.1
-|raw.githubusercontent.com^$dnsrewrite=NOERROR;A;127.0.0.1
 |bitbucket.org^$dnsrewrite=NOERROR;A;127.0.0.1
 |officeconfirm.technoguides.org^$dnsrewrite=NOERROR;A;127.0.0.1
 |kilimanjaro.run.place^$dnsrewrite=NOERROR;A;127.0.0.1
