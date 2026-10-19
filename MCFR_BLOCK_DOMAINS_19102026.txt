@@ -1,0 +1,11 @@
+|sy4iovv42zejfvs7lzdoth2ddiogkxi3kn6dgfy42fxwr7zcchl3wjqd.onion^$dnsrewrite=NOERROR;A;127.0.0.1
+|khinkal.net^$dnsrewrite=NOERROR;A;127.0.0.1
+|hsocket.io^$dnsrewrite=NOERROR;A;127.0.0.1
+|adv-click-track.online^$dnsrewrite=NOERROR;A;127.0.0.1
+|adv-click-track.space^$dnsrewrite=NOERROR;A;127.0.0.1
+|cdn.debian-check.space^$dnsrewrite=NOERROR;A;127.0.0.1
+|check.cert-update.online^$dnsrewrite=NOERROR;A;127.0.0.1
+|dpkg.debian-check.cloud^$dnsrewrite=NOERROR;A;127.0.0.1
+|scrt.vdyke.online^$dnsrewrite=NOERROR;A;127.0.0.1
+|status.cert-update.spac^$dnsrewrite=NOERROR;A;127.0.0.1
+|gsocket.io^$dnsrewrite=NOERROR;A;127.0.0.1
