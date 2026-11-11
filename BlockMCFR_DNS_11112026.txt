@@ -1,0 +1,17 @@
+|ghost-new-live.ink^$dnsrewrite=NOERROR;A;127.0.0.1
+|komz.click^$dnsrewrite=NOERROR;A;127.0.0.1
+|specmash.cloud^$dnsrewrite=NOERROR;A;127.0.0.1
+|specmash.online^$dnsrewrite=NOERROR;A;127.0.0.1
+|avionika.store^$dnsrewrite=NOERROR;A;127.0.0.1
+|fguib.store^$dnsrewrite=NOERROR;A;127.0.0.1
+|ai-education-msk.com^$dnsrewrite=NOERROR;A;127.0.0.1
+|thetamarindleafresidency.com^$dnsrewrite=NOERROR;A;127.0.0.1
+|dedviking.xyz^$dnsrewrite=NOERROR;A;127.0.0.1
+|project-spb.net^$dnsrewrite=NOERROR;A;127.0.0.1
+|promo-bezlimit.ru^$dnsrewrite=NOERROR;A;127.0.0.1
+|tamenerd.com^$dnsrewrite=NOERROR;A;127.0.0.1
+|beamspirits.net^$dnsrewrite=NOERROR;A;127.0.0.1
+|yanyanku.info^$dnsrewrite=NOERROR;A;127.0.0.1
+|ariel-est.com^$dnsrewrite=NOERROR;A;127.0.0.1
+|talent-tdah.com^$dnsrewrite=NOERROR;A;127.0.0.1
+|mail-target-domain.site^$dnsrewrite=NOERROR;A;127.0.0.1
